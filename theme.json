@@ -61,7 +61,10 @@
     "BRAND_360": "#BF96D0",
     "BRAND_500": "#866195",
     "BRAND_560": "#BF96D0",
-    "WHITE_500": "#E7C4FF",
+    "WHITE_500": "#E7C4FF",
+    "GUILD_BOOSTING_PINK": "#f5bde6",   
+    "GUILD_BOOSTING_PURPLE": "#c6a0f6",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c6a0f6",
     "RED_400": "#FC0E61"
   },
   "spec": 2,
