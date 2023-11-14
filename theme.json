@@ -46,7 +46,7 @@
   },
   "rawColors": {
     "PRIMARY_100": "#F2D8FD",
-    "PRIMARY_200": "#947592",
+    "PRIMARY_200": "#995592",
     "PRIMARY_300": "#9472D5",
     "PRIMARY_360": "#C272F0",
     "PRIMARY_400": "#7114EE",
@@ -61,16 +61,14 @@
     "BRAND_360": "#BF96D0",
     "BRAND_500": "#866195",
     "BRAND_560": "#BF96D0",
-    "WHITE_500": "#E7C4FF",
-    "YELLOW_300": "#B569E0",
-    "GREEN_360": "#B569E0",
+    "WHITE_500": "#E7C4FF",
     "RED_400": "#FC0E61"
   },
   "spec": 2,
   "background": {
-    "blur": 1,
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/main/background/background.jpeg",
-    "alpha": 0.9,
+    "alpha": 1,
     "color": "#0A0A0A"
   }
 }
