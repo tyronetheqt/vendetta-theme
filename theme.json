@@ -70,14 +70,14 @@
     "RED_400": "#FC0E61"
   },
   "spec": 2,
+  "plus": {
+  "version": 0,
+	"unreadBadgeColor": "#76508c"
+ }
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/main/background/background.jpeg",
     "alpha": 1,
     "color": "#0A0A0A"
   }
-  "plus": {
-  "version": 0,
-	"unreadBadgeColor": "#76508c"
- }
 }
