@@ -76,4 +76,8 @@
     "alpha": 1,
     "color": "#0A0A0A"
   }
+  "plus": {
+  "version": 0,
+	"unreadBadgeColor": "#76508c"
+ }
 }
