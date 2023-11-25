@@ -1,0 +1,79 @@
+{
+  "name": "drybreakfast",
+  "description": "Based on Purpdark V3, by @vve1",
+  "authors": [
+    {
+      "name": "@yung.bruh"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#0459A3"],
+    "HEADER_SECONDARY": ["#3872ab"],
+    "TEXT_NORMAL": ["#F3E8FF"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#72a4d6"],
+    "INTERACTIVE_NORMAL": ["#85a3c7"],
+    "INTERACTIVE_HOVER": ["#9fb1c7"],
+    "INTERACTIVE_ACTIVE": ["#4b73a3"],
+    "INTERACTIVE_MUTED": ["#5F5160"],
+    "BACKGROUND_PRIMARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY": ["#222222"],
+    "BACKGROUND_SECONDARY_ALT": ["#222222"],
+    "BACKGROUND_TERTIARY": ["#0A0A0A"],
+    "BACKGROUND_ACCENT": ["#3872ab"],
+    "BACKGROUND_FLOATING": ["#222222"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#3551b8"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5066b3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
+    "SCROLLBAR_THIN_THUMB": ["#26273b"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#7d90d47"],
+    "SCROLLBAR_AUTO_TRACK": ["#7d90d4"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+    "CHANNELS_DEFAULT": ["#677199"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
+    "CHANNEL_ICON": ["#BEB3C6"],
+    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
+    "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#c2d6ff",
+    "PRIMARY_200": "#6961c2",
+    "PRIMARY_300": "#726fed",
+    "PRIMARY_360": "#728df0",
+    "PRIMARY_400": "#4261eb",
+    "PRIMARY_500": "#3a4e70",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#2F2F2F",
+    "PRIMARY_660": "#2F2F2F",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": "#617195",
+    "BRAND_360": "#96a1d0",
+    "BRAND_500": "#616595",
+    "BRAND_560": "#98a7ed",
+    "WHITE_500": "#7278cf",
+    "YELLOW_300": "#6f6fa6",
+    "GREEN_360": "#42497a",
+    "GUILD_BOOSTING_PINK": "#f5bde6",   
+    "GUILD_BOOSTING_PURPLE": "#c6a0f6",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c6a0f6",
+    "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/main/background/background.jpeg",
+    "alpha": 1,
+    "color": "#0A0A0A"
+  }
+}
