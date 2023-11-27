@@ -82,8 +82,8 @@
           "StatusStreaming": ["#7e64fb"],
           "StatusMobileOnline": ["#c2d6ff"],
           "StatusIdle": ["#98a7ed"],
-          "StatusDND": ["#4261eb"],
-          "StatusOffline": ["#42497a"],
+          "StatusDND": ["#4281eb"],
+          "StatusOffline": ["#46497a"],
           "StatusOnline": ["#c2d6ff"]}
   },
   "color": "#728df0"
