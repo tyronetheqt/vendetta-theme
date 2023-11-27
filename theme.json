@@ -6,6 +6,7 @@
       "name": "@yung.bruh"
     }
   ],
+"spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#0459A3"],
     "HEADER_SECONDARY": ["#3872ab"],
