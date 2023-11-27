@@ -71,9 +71,21 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0,
+    "blur": 0.3,
     "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/blue/background/background.png",
-    "alpha": 1,
-    "color": "#0A0A0A"
-  }
+    "alpha": 0.7
+  },
+  "plus":{
+   "version":"0",
+   "iconpack":"rosiecord-plumpy",
+   "icons":{
+          "ic_new_pins":["#98a7ed"],
+          "StatusStreaming": ["#7e64fb"],
+          "StatusMobileOnline": ["#c2d6ff"],
+          "StatusIdle": ["#98a7ed"],
+          "StatusDND": ["#4261eb"],
+          "StatusOffline": ["#42497a"],
+          "StatusOnline": ["#c2d6ff"]}
+  },
+  │ "color": "#728df0"
 }
