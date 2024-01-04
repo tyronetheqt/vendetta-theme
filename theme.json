@@ -69,11 +69,21 @@
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c6a0f6",
     "RED_400": "#FC0E61"
   },
-  "spec": 2,
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/main/background/background.jpeg",
     "alpha": 1,
     "color": "#0A0A0A"
+  },
+"plus":{
+   "version":"0",
+   "icons":{
+            "ic_new_pins":["#9019b1"],
+            "StatusStreaming": ["#d991fa"],
+          "StatusMobileOnline": ["#e960f0"],
+          "StatusIdle": ["#edcb45"],
+          "StatusDND": ["#ff611a"],
+          "StatusOffline": ["#604f61"],
+          "StatusOnline": ["#e960f0"]}
   }
 }
