@@ -6,6 +6,12 @@
       "name": "@gothuzi"
     }
   ],
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/tyronetheqt/vendetta-theme/main/background/background.jpeg",
+    "alpha": 1,
+    "color": "#0A0A0A"
+  },
   "semanticColors": {
     "HEADER_PRIMARY": ["#9472D5", "#9472D5"],
     "HEADER_SECONDARY": ["#9472D5", "#9472D5"],
