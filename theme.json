@@ -75,6 +75,8 @@
   },
   "plus":{
     "version":"0",
+    "customOverlays": true,
+    "mentionLineColor": "#C48EEE",
     "icons":{
       "ic_new_pins": "#9019b1",
       "StatusStreaming": "#d991fa",
@@ -84,5 +86,6 @@
       "StatusOffline": "#604f61",
       "StatusOnline": "#e960f0"
     }
-  }
+  },
+  "spec": 2
 }
